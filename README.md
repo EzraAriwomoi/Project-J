@@ -76,9 +76,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can’t go back!
     npm run eject
 
-We suggest that you begin by typing:
-
-### `cd frontend`
-### `npm start`
+### We suggest that you begin by typing:
+    cd frontend
+    npm start
 
 Happy hacking!
