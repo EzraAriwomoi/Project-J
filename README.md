@@ -77,6 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     npm run eject
 
 ### We suggest that you begin by typing:
+### Get to your directorate
     cd frontend
 
 ### Then
