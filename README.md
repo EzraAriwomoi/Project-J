@@ -70,12 +70,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### `npm test`
-    Starts the test runner.
+### Starts the test runner.
+    npm test
 
-### `npm run eject`
-    Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
+### Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can’t go back!
+    npm run eject
 
 We suggest that you begin by typing:
 
