@@ -78,7 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### We suggest that you begin by typing:
     cd frontend
-    
+
+### Then
     npm start
 
 Happy hacking!
